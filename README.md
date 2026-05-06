@@ -58,11 +58,11 @@ python manage.py runserver
 
 
 ### Gerais
-   **Templates personalizados**  
-   - Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
+         **Templates personalizados**  
+         - Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
 
-   **Redirecionamento pós-ação**  
-   - Após criar, editar ou deletar um produto, o usuário é redirecionado automaticamente para a lista de produtos.
+         **Redirecionamento pós-ação**  
+         - Após criar, editar ou deletar um produto, o usuário é redirecionado automaticamente para a lista de produtos.
 
 ### Produtos
 1. **Listar produtos**  
