@@ -9,6 +9,30 @@
 - ASGIRef 3.11.1
 - Packaging 26.2
 
+## Estrutura
+
+CRUD-HACKTHON/
+│
+├── core/                # Configurações principais do Django
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py / asgi.py
+│
+├── produtos/            # Aplicativo de gerenciamento de produtos
+│   ├── migrations/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── views.py
+│   ├── urls.py
+│   └── templates/produtos/
+│       ├── produto_list.html
+│       ├── produto_detail.html
+│       ├── produto_form.html
+│       └── produto_confirm_delete.html
+│
+├── manage.py            # Script de gerenciamento do Django
+└── requirements.txt     # Dependências do projeto
 
 
 
