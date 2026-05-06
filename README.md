@@ -58,6 +58,7 @@ python manage.py runserver
 
 
 Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
+
 Após criar, editar ou deletar um produto, o usuário é redirecionado automaticamente para a lista de produtos.
 
 ### Produtos
