@@ -2,6 +2,8 @@
 
 # 📝 CRUD-HACKTHON
 
+[Dependências](#tecnologias-utilizadas) • [Instalação](#instalação) • [Funcionalidades](#funcionalidades) • [Estrutura](#estrutura)
+
 ![CRUD](recurso/Novo%20Projeto.jpg)
 
 </div>
