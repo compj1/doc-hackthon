@@ -48,7 +48,7 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
-Para execução :
+🔌 Para execução :
 ```
 python manage.py runserver
 ```
@@ -118,5 +118,5 @@ CRUD-HACKTHON/
 # Integrantes
 > Fernando Chaves </br>
 > João Lineky </br>
-> Lucas vieira </br>
+> Lucas Vieira </br>
 > Yuri Styven </br>
