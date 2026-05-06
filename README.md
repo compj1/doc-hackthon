@@ -23,8 +23,6 @@ Um projeto Django que implementa operações CRUD (Create, Read, Update, Delete)
       - ASGIRef 3.11.1
       - Packaging 26.2
 
----
-
 
 # Instalação
 
