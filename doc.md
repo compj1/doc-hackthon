@@ -29,7 +29,7 @@ CRUD-HACKTHON é um projeto Django que implementa operações CRUD (Create, Read
 
 # Instalação
 
-## Configuraçâo
+## Configurção
 
 git clone https://github.com/Fernando-CR19/CRUD-HACKTHON.git
 cd CRUD-HACKTHON
