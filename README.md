@@ -80,7 +80,7 @@ python manage.py runserver
    - Confirmação de exclusão antes de remover.
    - URL: `/<id>/deletar/`
 
-## Funcionalidades gerais
+### Funcionalidades gerais
    **Templates personalizados**  
    - Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
 
