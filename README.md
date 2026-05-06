@@ -25,7 +25,7 @@ Um projeto Django que implementa operações CRUD (Create, Read, Update, Delete)
       - Packaging 26.2
 
 
-## Instalação
+> ## Instalação
 
 ### Configuração
 
