@@ -35,7 +35,7 @@ CRUD-HACKTHON/
 ├── manage.py            # Script de gerenciamento do Django
 └── requirements.txt     # Dependências do projeto
 
-
+```
 
 
 
