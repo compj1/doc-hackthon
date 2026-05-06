@@ -81,8 +81,6 @@ CRUD-HACKTHON/
 
 ## Funcionalidades
 
-O projeto CRUD-HACKTHON possui as seguintes funcionalidades:
-
 ### Produtos
 1. **Listar produtos**  
    - Exibe uma lista de todos os produtos cadastrados no sistema.
@@ -94,8 +92,7 @@ O projeto CRUD-HACKTHON possui as seguintes funcionalidades:
 
 3. **Criar novo produto**  
    - Permite adicionar um novo produto ao sistema.
-   - Campos obrigatórios: `nome`, `preco`  
-   - Campo opcional: `descricao`  
+   - Campos obrigatórios: `nome`, `preco`, `descrição`
    - URL: `/novo/`
 
 4. **Editar produto existente**  
