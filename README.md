@@ -122,7 +122,7 @@ CRUD-HACKTHON/
 ```
 
 # Integrantes
-Fernando Chaves </br>
-João Lineky </br>
-Lucas vieira </br>
-Yuri Styven </br>
+> Fernando Chaves </br>
+> João Lineky </br>
+> Lucas vieira </br>
+> Yuri Styven </br>
