@@ -81,13 +81,13 @@ python manage.py runserver
    - URL: `/<id>/deletar/`
 
 ### Funcionalidades gerais do projeto
- . **Templates personalizados**  
+   **Templates personalizados**  
    - Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
 
- . **Redirecionamento pós-ação**  
+   **Redirecionamento pós-ação**  
    - Após criar, editar ou deletar um produto, o usuário é redirecionado automaticamente para a lista de produtos.
 
- . **Estrutura organizada**  
+   **Estrutura organizada**  
    - Aplicativo separado (`produtos`)  
    - Configuração centralizada (`core`) 
 
