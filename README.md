@@ -91,8 +91,8 @@ python manage.py runserver
 
 ## Estrutura
 
-   - Aplicativo separado (`produtos`)  
-   - Configuração centralizada (`core`) 
+>   - Aplicativo separado (`produtos`)  
+>   - Configuração centralizada (`core`) 
 
 ```plaintext
 CRUD-HACKTHON/
