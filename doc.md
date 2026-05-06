@@ -78,8 +78,47 @@ CRUD-HACKTHON/
 
 
 
-### Passos de Instalação
 
-1. **Clone o repositório**
-```bash
-git clone https://github.com/Fernando-CR19/CRUD-HACKTHON.git
+## Funcionalidades
+
+O projeto CRUD-HACKTHON possui as seguintes funcionalidades:
+
+### Produtos
+1. **Listar produtos**  
+   - Exibe uma lista de todos os produtos cadastrados no sistema.
+   - Informações exibidas: nome, preço, descrição (dependendo do template).
+
+2. **Visualizar detalhes do produto**  
+   - Exibe informações detalhadas de um produto específico.
+   - URL: `/<id>/`
+
+3. **Criar novo produto**  
+   - Permite adicionar um novo produto ao sistema.
+   - Campos obrigatórios: `nome`, `preco`  
+   - Campo opcional: `descricao`  
+   - URL: `/novo/`
+
+4. **Editar produto existente**  
+   - Permite atualizar os dados de um produto já cadastrado.
+   - Campos editáveis: `nome`, `preco`, `descricao`
+   - URL: `/<id>/editar/`
+
+5. **Deletar produto**  
+   - Permite remover um produto do sistema.
+   - Confirmação de exclusão antes de remover.
+   - URL: `/<id>/deletar/`
+
+### Funcionalidades gerais do projeto
+6. **Gerenciamento completo via Django Admin**  
+   - Os produtos podem ser gerenciados também pelo painel administrativo do Django.
+
+7. **Templates personalizados**  
+   - Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
+
+8. **Redirecionamento pós-ação**  
+   - Após criar, editar ou deletar um produto, o usuário é redirecionado automaticamente para a lista de produtos.
+
+9. **Estrutura organizada**  
+   - Aplicativo separado (`produtos`)  
+   - Configuração centralizada (`core`)  
+   - Uso de Class-Based Views (CBVs) para simplificar manutenção e reutilização de código.
