@@ -1,4 +1,22 @@
 
+## Tecnologias Utilizadas
+- Python 3.x
+- Django 6.0.5
+- Django REST Framework 3.17.1
+- Gunicorn 26.0.0
+- Whitenoise 6.12.0
+- SQLParse 0.5.5
+- ASGIRef 3.11.1
+- Packaging 26.2
+
+
+
+
+
+
+
+
+
 # 📝 CRUD-HACKTHON
 
 ## Descrição do Projeto
