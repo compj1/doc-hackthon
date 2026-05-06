@@ -11,7 +11,7 @@ Um projeto Django que implementa operações CRUD (Create, Read, Update, Delete)
 
 ## Tecnologias Utilizadas
 - **Frontend:** HTML (templates Django)  
-- **Backend:** Python 3, Django, Django REST Framework 
+- **Backend:** Python, Django, Django REST Framework 
 - **Banco de Dados:** SQLite (padrão do Django)  
 - **Outras bibliotecas:** Gunicorn, Whitenoise, SQLParse, ASGIRef, Packaging
 
@@ -55,7 +55,6 @@ python manage.py runserver
 
 
 ## Funcionalidades
-
 
 Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.\
 Após criar, editar ou deletar um produto, o usuário é redirecionado automaticamente para a lista de produtos.
