@@ -9,6 +9,25 @@
 - ASGIRef 3.11.1
 - Packaging 26.2
 
+## Instalaçâo
+
+# Clone o repo
+
+git clone https://github.com/Fernando-CR19/CRUD-HACKTHON.git
+cd CRUD-HACKTHON
+
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+
+pip install -r requirements.txt
+
+python manage.py migrate
+
+# Execuçâo
+
+python manage.py runserver
+
 ## Estrutura
 
 ```plaintext
@@ -36,6 +55,7 @@ CRUD-HACKTHON/
 └── requirements.txt     # Dependências do projeto
 
 ```
+
 
 
 
