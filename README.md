@@ -57,7 +57,7 @@ python manage.py runserver
 ## Funcionalidades
 
 
-### Funcionalidades gerais
+
    **Templates personalizados**  
    - Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
 
