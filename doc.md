@@ -1,5 +1,3 @@
-# documentação
-# CRUD - HACKATHON
 
 # 📝 CRUD-HACKTHON
 
