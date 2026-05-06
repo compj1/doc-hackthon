@@ -24,9 +24,9 @@ Um projeto Django que implementa operações CRUD (Create, Read, Update, Delete)
       - Packaging 26.2
 
 
-# Instalação
+## Instalação
 
-## Configuração
+### Configuração
 
 git clone https://github.com/Fernando-CR19/CRUD-HACKTHON.git
 cd CRUD-HACKTHON
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 python manage.py migrate
 
-## Execução
+### Execução
 
 python manage.py runserver
 
@@ -112,7 +112,6 @@ CRUD-HACKTHON/
  . **Estrutura organizada**  
    - Aplicativo separado (`produtos`)  
    - Configuração centralizada (`core`)  
-   - Uso de Class-Based Views (CBVs) para simplificar manutenção e reutilização de código.
 
 # Integrantes
 Fernando Chaves </br>
