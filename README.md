@@ -11,7 +11,7 @@ Um projeto Django que implementa operações CRUD (Create, Read, Update, Delete)
 
 ## Tecnologias Utilizadas
 - **Frontend:** HTML (templates Django)  
-- **Backend:** Python 3.x, Django 6.0.5, Django REST Framework 3.17.1  
+- **Backend:** Python 3, Django, Django REST Framework 
 - **Banco de Dados:** SQLite (padrão do Django)  
 - **Outras bibliotecas:** Gunicorn, Whitenoise, SQLParse, ASGIRef, Packaging
 
