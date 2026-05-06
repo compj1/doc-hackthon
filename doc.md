@@ -41,3 +41,21 @@ CRUD-HACKTHON/
 │
 ├─ .gitignore
 └─ README.md
+
+
+
+---
+
+## Instalação e Execução
+
+### Pré-requisitos
+Antes de começar, você precisa ter instalado em sua máquina:
+- [Node.js](https://nodejs.org/) (v16 ou superior recomendado)  
+- npm (geralmente vem junto com o Node.js)  
+- SQLite (opcional, caso você use outro banco, ajuste as instruções)
+
+### Passos de Instalação
+
+1. **Clone o repositório**
+```bash
+git clone https://github.com/Fernando-CR19/CRUD-HACKTHON.git
