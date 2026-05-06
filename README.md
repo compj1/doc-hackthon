@@ -63,6 +63,7 @@ python manage.py runserver
    **Redirecionamento pós-ação**  
    - Após criar, editar ou deletar um produto, o usuário é redirecionado automaticamente para a lista de produtos.
 </div>
+
 ### Produtos
 1. **Listar produtos**  
    - Exibe uma lista de todos os produtos cadastrados no sistema.
