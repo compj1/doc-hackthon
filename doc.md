@@ -9,6 +9,7 @@
 - **Banco de Dados:** SQLite (padrão do Django)  
 - **Outras bibliotecas:** Gunicorn, Whitenoise, SQLParse, ASGIRef, Packaging
 
+---
 
 - Python 3.x
 - Django 6.0.5
