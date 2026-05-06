@@ -106,16 +106,13 @@ CRUD-HACKTHON/
    - URL: `/<id>/deletar/`
 
 ### Funcionalidades gerais do projeto
-6. **Gerenciamento completo via Django Admin**  
-   - Os produtos podem ser gerenciados também pelo painel administrativo do Django.
-
-7. **Templates personalizados**  
+6. **Templates personalizados**  
    - Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
 
-8. **Redirecionamento pós-ação**  
+7. **Redirecionamento pós-ação**  
    - Após criar, editar ou deletar um produto, o usuário é redirecionado automaticamente para a lista de produtos.
 
-9. **Estrutura organizada**  
+8. **Estrutura organizada**  
    - Aplicativo separado (`produtos`)  
    - Configuração centralizada (`core`)  
    - Uso de Class-Based Views (CBVs) para simplificar manutenção e reutilização de código.
