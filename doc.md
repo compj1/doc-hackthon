@@ -11,6 +11,7 @@
 
 ## Estrutura
 
+```plaintext
 CRUD-HACKTHON/
 │
 ├── core/                # Configurações principais do Django
