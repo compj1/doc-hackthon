@@ -21,9 +21,7 @@ Um projeto Django que implementa operações CRUD (Create, Read, Update, Delete)
       - Whitenoise 6.12.0
       - SQLParse 0.5.5
       - ASGIRef 3.11.1
-      - Packaging 26.2
-
-\
+      - Packaging 26.2\
 ## Instalação
 
 ### Configuração
