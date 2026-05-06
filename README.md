@@ -57,14 +57,14 @@ python manage.py runserver
 ## Funcionalidades
 
 
-> ### Gerais
+### Gerais
    **Templates personalizados**  
    - Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
 
    **Redirecionamento pós-ação**  
    - Após criar, editar ou deletar um produto, o usuário é redirecionado automaticamente para a lista de produtos.
 
-> ### Produtos
+### Produtos
 1. **Listar produtos**  
    - Exibe uma lista de todos os produtos cadastrados no sistema.
    - Informações exibidas: nome, preço, descrição (dependendo do template).
