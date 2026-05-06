@@ -106,13 +106,13 @@ CRUD-HACKTHON/
    - URL: `/<id>/deletar/`
 
 ### Funcionalidades gerais do projeto
-6. **Templates personalizados**  
+ . **Templates personalizados**  
    - Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
 
-7. **Redirecionamento pós-ação**  
+ . **Redirecionamento pós-ação**  
    - Após criar, editar ou deletar um produto, o usuário é redirecionado automaticamente para a lista de produtos.
 
-8. **Estrutura organizada**  
+ . **Estrutura organizada**  
    - Aplicativo separado (`produtos`)  
    - Configuração centralizada (`core`)  
    - Uso de Class-Based Views (CBVs) para simplificar manutenção e reutilização de código.
