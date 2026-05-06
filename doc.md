@@ -1,6 +1,10 @@
 
 # 📝 CRUD-HACKTHON
 
+## Descrição
+
+CRUD-HACKTHON é um projeto Django que implementa operações CRUD (Create, Read, Update, Delete) para gerenciamento de produtos. O projeto utiliza **Django 6.0.5** e **Django REST Framework**, seguindo as melhores práticas de desenvolvimento web em Python.
+
 ##
 
 ## Tecnologias Utilizadas
@@ -19,10 +23,6 @@
 - SQLParse 0.5.5
 - ASGIRef 3.11.1
 - Packaging 26.2
-
-## Descrição
-
-CRUD-HACKTHON é um projeto Django que implementa operações CRUD (Create, Read, Update, Delete) para gerenciamento de produtos. O projeto utiliza **Django 6.0.5** e **Django REST Framework**, seguindo as melhores práticas de desenvolvimento web em Python.
 
 ---
 
