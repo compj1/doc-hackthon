@@ -1,8 +1,8 @@
-![CRUD](recurso/Novo%20Projeto.jpg)
-
-
+<div align="center">
 
 # 📝 CRUD-HACKTHON
+
+![CRUD](recurso/Novo%20Projeto.jpg)
 
 Um projeto Django que implementa operações CRUD (Create, Read, Update, Delete) para gerenciamento de produtos. O projeto utiliza **Django 6.0.5** e **Django REST Framework**, seguindo as melhores práticas de desenvolvimento web em Python.
 
