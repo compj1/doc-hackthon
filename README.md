@@ -28,13 +28,19 @@ Um projeto Django que implementa operações CRUD (Create, Read, Update, Delete)
 
 ### Configuração
 
+```
 git clone https://github.com/Fernando-CR19/CRUD-HACKTHON.git
+```
+```
 cd CRUD-HACKTHON
-
+```
+```
 python -m venv venv
+```
+```
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
-
+```
 pip install -r requirements.txt
 
 python manage.py migrate
