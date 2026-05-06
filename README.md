@@ -56,6 +56,14 @@ python manage.py runserver
 
 ## Funcionalidades
 
+
+### Funcionalidades gerais
+   **Templates personalizados**  
+   - Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
+
+   **Redirecionamento pós-ação**  
+   - Após criar, editar ou deletar um produto, o usuário é redirecionado automaticamente para a lista de produtos.
+
 ### Produtos
 1. **Listar produtos**  
    - Exibe uma lista de todos os produtos cadastrados no sistema.
@@ -80,19 +88,12 @@ python manage.py runserver
    - Confirmação de exclusão antes de remover.
    - URL: `/<id>/deletar/`
 
-### Funcionalidades gerais
-   **Templates personalizados**  
-   - Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
 
-   **Redirecionamento pós-ação**  
-   - Após criar, editar ou deletar um produto, o usuário é redirecionado automaticamente para a lista de produtos.
+## Estrutura
 
    **Estrutura organizada**  
    - Aplicativo separado (`produtos`)  
    - Configuração centralizada (`core`) 
-
-
-## Estrutura
 
 ```plaintext
 CRUD-HACKTHON/
