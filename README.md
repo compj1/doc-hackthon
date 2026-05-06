@@ -48,7 +48,7 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
-▷ execução
+▶️ Executando
 ```
 python manage.py runserver
 ```
