@@ -58,7 +58,7 @@ python manage.py runserver
 
 
 ### Gerais
-        **Templates personalizados**  
+   **Templates personalizados**  
    - Cada view utiliza um template HTML próprio para exibição, edição e exclusão de produtos.
 
    **Redirecionamento pós-ação**  
