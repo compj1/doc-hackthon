@@ -27,7 +27,7 @@ Um projeto Django que implementa operações CRUD (Create, Read, Update, Delete)
 
 ## Instalação
 
-> ### Configuração
+### Configuração
 
 ```
 git clone https://github.com/Lucasvieirar/CRUD-HACKTHON.git
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
-> ### Execução
+### Execução
 ```
 python manage.py runserver
 ```
